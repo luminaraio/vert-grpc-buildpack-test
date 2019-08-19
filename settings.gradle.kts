@@ -1,2 +1,2 @@
-rootProject.name = "REPLACE_ME_APP_NAME"
+rootProject.name = "vert-grpc-buildpack-test"
 //rootProject.name = "vertx-grpc-gradle-quickstart"

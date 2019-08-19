@@ -12,10 +12,10 @@
   </parent>
 
   <groupId>io.luminara</groupId>
-  <artifactId>REPLACE_ME_APP_NAME</artifactId>
+  <artifactId>vert-grpc-buildpack-test</artifactId>
   <version>0.0.1</version>
 
-  <name>Luminara - EC - REPLACE_ME_APP_NAME gRPC Service</name>
+  <name>Luminara - EC - vert-grpc-buildpack-test gRPC Service</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
